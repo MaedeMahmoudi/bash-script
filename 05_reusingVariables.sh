@@ -1,5 +1,4 @@
-  
-  #!/bin/bash
+    #!/bin/bash
 
   name="Roz"
   name="Maede"
