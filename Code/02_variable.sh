@@ -1,5 +1,4 @@
 
-
   #!/bin/bash
 
   name="Roz"
