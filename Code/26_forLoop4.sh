@@ -8,4 +8,3 @@
     echo "Processing host: $host"
 
   done
-
