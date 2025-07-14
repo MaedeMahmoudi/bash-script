@@ -6,3 +6,4 @@
   if [ "$name" = "bash" ]; then
      echo "the name is bash"
   fi
+
