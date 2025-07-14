@@ -10,3 +10,5 @@ echo "Array after adding new element: ${fruits[@]}"
 unset 'fruits[1]'   # Remove element
 echo "Array after removing element 1: ${fruits[@]}"
 echo "Array length: ${#fruits[@]}"       # Array length (not "array Length")
+
+
