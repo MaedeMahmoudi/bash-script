@@ -1,5 +1,4 @@
 
-
   #!bin/bash/
 
   read -p "Enter first number = " a
