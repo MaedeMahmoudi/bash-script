@@ -1,5 +1,4 @@
 
-
   #!bin/bash/
 
  if [ -e example.txt ]; then
