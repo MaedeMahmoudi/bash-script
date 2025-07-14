@@ -8,5 +8,3 @@
     echo "Number: $i "
 
   done
-
-
