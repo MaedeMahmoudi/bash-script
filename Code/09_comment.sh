@@ -1,5 +1,4 @@
 
-
    #!bin/bash
 
    # this is a comment and does not run
