@@ -2,7 +2,7 @@ markdown
 
 # 📘 Bash Scripting Guide
 
-> Your Complete Resource for Learning Bash Scripting from Beginner to Advanced
+> Your Complete Resource for Learning Bash Scripting for Beginner 
 
 A comprehensive, hands-on guide to mastering Bash scripting with practical examples, real-world use cases, and ready-to-run code snippets.
 
